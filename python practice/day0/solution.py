@@ -1,3 +1,3 @@
 caption = input()
-print("Hello word")
+print("Hello, World.")
 print(caption)
