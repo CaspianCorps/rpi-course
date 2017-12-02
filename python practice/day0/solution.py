@@ -1,3 +1,3 @@
-input_data = input()
-print("Hello, World.")
-print(input_data)
+var = input()
+print("Hello, Word")
+print(var)

@@ -56,4 +56,4 @@ class test(unittest.TestCase):
         self.assertEqual( result[0], result[1])
 
 if __name__ == '__main__':
-    unittest.main()
+unittest.main()
